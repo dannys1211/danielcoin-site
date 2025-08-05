@@ -2,7 +2,7 @@
   <style>
     .text { font-family: Arial, sans-serif; font-size: 20px; fill: #f2b807; font-weight: bold; }
   </style>
-  <!-- Cerc exterior -->
+  
   <circle cx="100" cy="80" r="60" stroke="#f2b807" stroke-width="10" fill="none"/>
   <!-- Litera D -->
   <text x="65" y="95" font-size="60" fill="#f2b807" font-weight="bold">D</text>
@@ -11,3 +11,4 @@
   <!-- Text jos -->
   <text x="50" y="170" class="text">DANIELCOIN</text>
 </svg>
+<object type="image/svg+xml" data="logo.svg" class="logo"></object>
