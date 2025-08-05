@@ -1,4 +1,4 @@
-
+body, html {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', sans-serif;
@@ -73,10 +73,7 @@ footer {
     background-color: rgba(255, 255, 255, 0.1);
     padding: 1rem;
     font-size: 0.9rem;
-}
-
-/* Fundal valuri animate */
-.animated-waves {
+}.animated-waves {
     position: fixed;
     bottom: 0;
     left: 0;
