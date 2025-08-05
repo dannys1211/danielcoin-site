@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DanielCoin - The Future of Crypto</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <img src="logo.svg" alt="DanielCoin Logo" class="logo">
+        <h1>DanielCoin</h1>
+        <p>The Future of Crypto is Here</p>
+    </header>
+    <main>
+        <section>
+            <h2>What is DanielCoin?</h2>
+            <p>DanielCoin is a revolutionary cryptocurrency designed for simplicity, speed, and profitability. Join our growing community and be part of the financial evolution.</p>
+        </section>
+        <section>
+            <h2>Tokenomics</h2>
+            <ul>
+                <li>Total Supply: 1,000,000 DanielCoins</li>
+                <li>Network: Binance Smart Chain (BEP-20)</li>
+                <li>Initial Distribution: 50% public, 25% team, 15% marketing, 10% liquidity</li
