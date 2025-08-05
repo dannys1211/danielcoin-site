@@ -1,0 +1,15 @@
+--- styles.css ---
+body {
+  background-color: #0f1420;
+  color: #e7eefc;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+a {
+  color: #4c6fff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
