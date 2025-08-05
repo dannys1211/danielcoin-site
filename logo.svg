@@ -1,4 +1,13 @@
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="60" cy="60" r="58" fill="#000" stroke="#FFD700" stroke-width="4"/>
-  <text x="50%" y="50%" text-anchor="middle" fill="#FFD700" font-size="24" font-family="Arial" dy=".3em">DC</text>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: Arial, sans-serif; font-size: 20px; fill: #f2b807; font-weight: bold; }
+  </style>
+  <!-- Cerc exterior -->
+  <circle cx="100" cy="80" r="60" stroke="#f2b807" stroke-width="10" fill="none"/>
+  <!-- Litera D -->
+  <text x="65" y="95" font-size="60" fill="#f2b807" font-weight="bold">D</text>
+  <!-- Simbol interior (inspirat de Ethereum) -->
+  <polygon points="100,60 110,80 100,100 90,80" fill="#f2b807"/>
+  <!-- Text jos -->
+  <text x="50" y="170" class="text">DANIELCOIN</text>
 </svg>
